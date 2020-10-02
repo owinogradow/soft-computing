@@ -1,0 +1,22 @@
+;exemplary input file for MADALINE network
+3 ;amount of training patterns
+4 ;vertical resolution of matrix of singular training pattern (character)
+4 ;horizontal resolution of matrix of singular training pattern (character)
+X ;true meaning of first training pattern (character)
+;definition of character shape of matrix equal to 4x4 pixels
+#--#
+-##-
+-##-
+#--#
+Y ;true meaning of second training pattern (character)
+;definition of character shape of matrix equal to 4x4 pixels
+#--#
+-##-
+-#--
+#---
+Z ;true meaning of third training pattern (character)
+;definition of character shape of matrix equal to 4x4 pixels
+####
+--#-
+-#--
+#### 

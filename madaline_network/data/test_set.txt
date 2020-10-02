@@ -1,0 +1,14 @@
+;exemplary input file for MADALINE network
+2 ;amount of test patterns
+4 ;vertical resolution of matrix of singular test pattern (character)
+4 ;horizontal resolution of matrix of singular test pattern (character)
+;definition of character shape of matrix equal to 4x4 pixels ('X' charcter with noise)
+##-#
+-##-
+-##-
+---#
+;definition of character shape of matrix equal to 4x4 pixels ('Y' charcter with noise)
+#--#
+--#-
+-#--
+#---
